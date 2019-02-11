@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+
+}
+
+#initially-hidden {
+  display: none;
+}
+
+#initially-hidden2 {
+  display: none;
+}
+
+#initially-hidden3 {
+  display: none;
+}
+
+#initially-hidden4 {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+
+img {
+    max-width:100%;
+}
+
+video {
+  max-width:100%;
+}
+
+.column {
+  width: 500px;
+  float: left;
+  padding: 50px;
+  text-align: center;
+}
+
+.column2 {
+  width: 500px;
+  float: right;
+  padding: 50px;
+  text-align: center;
+}
